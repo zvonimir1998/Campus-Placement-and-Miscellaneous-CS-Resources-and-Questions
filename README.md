@@ -149,6 +149,7 @@ Interview experiences are important to know about round details, questions asked
 - [Coding Ninjas/Naukri Interview Experience](https://www.naukri.com/code360/interview-experiences)
 - [Leetcode Discuss (#interview)](https://leetcode.com/discuss/topic/interview/)
 - [RECursion Interview Experience (Freshers)](https://recursionnitd.in/experience/)
+- [InterviewLegend](https://interviewlegend.com) - company-by-company interview breakdowns built from first-hand reports
 
 ## Resume
 Resources for resume templates and scoring.
